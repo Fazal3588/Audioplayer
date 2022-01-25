@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/btn_action_search"
+        android:icon="@drawable/ic_btn_search"
+        app:showAsAction="always|collapseActionView"
+        android:title="@string/search_hint"
+        app:actionViewClass="android.support.v7.widget.SearchView"/>
+    
+    <item
+        android:id="@+id/btn_action_add_playlist"
+        android:icon="@drawable/ic_btn_create_playlist"
+        app:showAsAction="always|collapseActionView"
+        android:title="@string/album_label"
+        android:visible="false"/>
+
+</menu>

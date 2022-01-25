@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AudioPlayer</string>
+    <string name="artist_label">Artist</string>
+    <string name="album_label">Album</string>
+    <string name="track_label">Track</string>
+    <string name="playlist_label">Playlist</string>
+    <string name="content_descripton_logo_splash">Audio Player</string>
+    <string name="copyright">Developed by lrandom</string>
+
+    <!-- Toast msg -->
+    <string name="track_has_been_set_as_ringtone_msg">has been set as ringtone</string>
+    <string name="track_cannot_been_set_as_ringtone_msg">can not been set as ringtone</string>
+    <string name="file_deleted_result_msg">has been deleted</string>
+    <!-- End toast msg -->
+
+
+    <!-- Dialog msg -->
+    <string name="confirm_delete_audio_msg">Are you sure want to delete this audio?</string>
+    <string name="confirm_delete_playlist_msg">Are you sure want to delete this playlist?</string>
+    <!-- End dialog msg -->
+
+    <string name="ok_label">OK</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="del_label">Delete</string>
+    <string name="rename_label">Rename</string>
+    <string name="add_to_playlist_label">Add to playlist</string>
+    <string name="set_ringtone">Set as ringtone</string>
+    <string name="search_hint">search</string>
+    <string name="no_result_match">No result match !</string>
+    <string name="select_track_label">Select track</string>
+    <string name="select_playlist_label">Select playlist</string>
+    <string name="exist_label">This was exist</string>
+    <string name="are_you_sure_label">Are you sure?</string>
+    <string name="name_label">Name?</string>
+    <string name="dummy_text">Dummy text</string>
+    <string name="toast_time_out">5000</string>
+    <string name="splash_time_out">1000</string>
+    <string name="like_label">likes</string>
+    <string name="re_name">Rename</string>
+
+    <string-array name="playlist_menu">
+        <item></item>
+        <item>Rename</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="track_menu">
+        <item></item>
+        <item>Delete</item>
+        <item>Set as ringtone</item>
+        <item>Add to playlist</item>
+    </string-array>
+
+
+    <string name="app_ad_id" translatable="false">ca-app-pub-1610982520322923~2132734290</string>
+    <string name="banner_ad_unit" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

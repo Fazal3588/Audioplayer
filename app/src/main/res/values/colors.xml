@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#ff5500</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#242424</color>
+    <color name="blue">#0066cc</color>
+    <color name="blueback">#99FFFF</color>
+    <color name="bg_app">#ffffff</color>
+    <color name="bg_wg">#80000000</color>
+    <color name="bg_actionbar">#000000</color>
+    <color name="title_item">#807e7e</color>
+    <color name="artist_title_item">#999999</color>
+    <color name="playlist_title_item">#807e7e</color>
+    <color name="selected_item">#F1F1F1</color>
+    <color name="selected_item_title">#ff5500</color>
+    <color name="bg_tab">#10ffffff</color>
+    <color name="bg_selected_tab">#202020</color>
+    <color name="bg_splash">#bf3517</color>
+    <color name="title_action_bar">#ffffff</color>
+    <color name="title_dialog">#000000</color>
+    <color name="buffed_bg">#2582BE</color>
+</resources>
